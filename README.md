@@ -1,0 +1,2 @@
+# codechef-SNACKDOWN
+pre-qualifier
